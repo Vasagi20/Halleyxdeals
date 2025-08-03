@@ -6,9 +6,7 @@ Halleyxdeals description
 
 
 
-Got it! Here's the **updated version** of your HalleyxDeals e-commerce platform description, using **HTML, CSS, JavaScript, PHP + MySQL**, and with your **admin email `admin@mail.com`**:
 
----
 
 ## 🛒 HalleyxDeals - PHP-MySQL E-commerce Platform
 
@@ -76,4 +74,4 @@ Got it! Here's the **updated version** of your HalleyxDeals e-commerce platform 
 
 
 
-Just ask and I’ll generate the code or design files for your HalleyxDeals app.
+
